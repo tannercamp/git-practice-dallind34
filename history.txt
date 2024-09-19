@@ -1,0 +1,10 @@
+  268  cd git-practice-dallind34
+  269  git branch feature-Tannercamp
+  270  git checkout feature-Tannercamp
+  275  git add .
+  276  git status
+  277  git commit -m "hey man"
+  278  git push origin feature-Tannercamp
+  279  git push origin feature-Tannercamp
+  280  git pull origin feature-Tannercamp
+  283  git log --oneline > gitlog.txt
